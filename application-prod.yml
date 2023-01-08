@@ -1,0 +1,8 @@
+app:
+  name: My app Prod
+  description: Welcome to ${app.name}
+
+my:
+  greeting: Hello World Testing for Production
+  list:
+    value: one,two,three
