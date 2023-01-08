@@ -1,0 +1,8 @@
+app:
+  name: My app Dev
+  description: Welcome to ${app.name}
+
+my:
+  greeting: Hello World Testing for Dev
+  list:
+    value: one,two,three
